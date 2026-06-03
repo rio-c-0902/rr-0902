@@ -1,0 +1,38 @@
+body{
+
+text-align:center;
+background: #fdaff2;
+font-family: sans-serif;
+
+}
+
+h1{
+
+    color: #ff7fa2;
+
+}
+
+a{
+
+    margin: 10px;
+    text-decoration: none;
+    color: gray;
+
+}
+
+img{
+
+    width: 250px;
+    height: 30px;
+
+}
+
+button{
+
+    background: pink;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    
+}
